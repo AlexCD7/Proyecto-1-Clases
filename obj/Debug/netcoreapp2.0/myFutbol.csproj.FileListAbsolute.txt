@@ -1,0 +1,11 @@
+c:\Users\CALISPA\myFutbol\obj\Debug\netcoreapp2.0\myFutbol.csprojResolveAssemblyReference.cache
+c:\Users\CALISPA\myFutbol\obj\Debug\netcoreapp2.0\myFutbol.csproj.CoreCompileInputs.cache
+c:\Users\CALISPA\myFutbol\obj\Debug\netcoreapp2.0\myFutbol.AssemblyInfoInputs.cache
+c:\Users\CALISPA\myFutbol\obj\Debug\netcoreapp2.0\myFutbol.AssemblyInfo.cs
+c:\Users\CALISPA\myFutbol\bin\Debug\netcoreapp2.0\myFutbol.deps.json
+c:\Users\CALISPA\myFutbol\bin\Debug\netcoreapp2.0\myFutbol.runtimeconfig.json
+c:\Users\CALISPA\myFutbol\bin\Debug\netcoreapp2.0\myFutbol.runtimeconfig.dev.json
+c:\Users\CALISPA\myFutbol\bin\Debug\netcoreapp2.0\myFutbol.dll
+c:\Users\CALISPA\myFutbol\bin\Debug\netcoreapp2.0\myFutbol.pdb
+c:\Users\CALISPA\myFutbol\obj\Debug\netcoreapp2.0\myFutbol.dll
+c:\Users\CALISPA\myFutbol\obj\Debug\netcoreapp2.0\myFutbol.pdb
